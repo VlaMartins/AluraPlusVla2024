@@ -1,10 +1,10 @@
 :root {
     --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --cinza-secundario: #faf1f1;
+    --botao-azul: #569ff8;
+    --cor-de-fundo: #02113e;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #3486eb;
 }
 
 *{
@@ -31,7 +31,7 @@ body{
 .container{
     height: 100vh;
     display:  grid;
-        grid-template-columns: 50% 50%;
+    grid-template-columns: 50% 50%;
 }
 
 .container__caixa{
