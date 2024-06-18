@@ -3,9 +3,9 @@
     --cinza-secundario: #faf1f1;
     --botao-azul: #569ff8;
     --cor-de-fundo: #000000;
-    --fonte-principal: "Indie Flower", cursive;
+    --fonte-principal: "Indie Flower";
     --botao-azul-efeito: #3486eb;
-    --fonte-titulo: "Satisfy", cursive;
+    --fonte-titulo: "Satisfy";
 }
 
 *{
