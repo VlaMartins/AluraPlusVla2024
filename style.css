@@ -5,6 +5,7 @@
     --cor-de-fundo: #000000;
     --fonte-principal: "Indie Flower", cursive;
     --botao-azul-efeito: #3486eb;
+    --fonte-titulo: "Satisfy", cursive;
 }
 
 *{
@@ -41,6 +42,7 @@ body{
 .container__titulo{
     font-size: 28px;
     font-weight: 700;
+    font-family: var(--fonte-titulo);
 }
 
 .container__imagem{
@@ -86,6 +88,7 @@ body{
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
+    font-family: var(--fonte-titulo);
 }
 
 .descricao__texto{
@@ -105,6 +108,7 @@ body{
 .dispositivos__titulo {
     font-size: 48px;
     color : var(--branco-principal);
+    font-family: var(--fonte-titulo);
 }
 
 .dispositivos__lista {
